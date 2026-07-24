@@ -18,4 +18,5 @@ Probability Bootcamp par Steve Brunton : https://www.youtube.com/watch?v=Gg3d-rn
 
 lien : https://www.youtube.com/watch?v=IDvp3pMm16k&list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&index=6
 
+<img width="1504" height="3074" alt="#3" src="https://github.com/user-attachments/assets/95e75117-205a-4157-9c09-da39890fc7a6" />
 
