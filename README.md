@@ -20,3 +20,10 @@ lien : https://www.youtube.com/watch?v=IDvp3pMm16k&list=PLMrJAkhIeNNT14qn1c5qdL2
 
 <img width="1504" height="3074" alt="#3" src="https://github.com/user-attachments/assets/95e75117-205a-4157-9c09-da39890fc7a6" />
 
+## Sample Variance in Random Population Sampling
+
+lien : https://www.youtube.com/watch?v=yNnUVHfX5yQ&list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&index=7
+
+<img width="1270" height="3074" alt="#4" src="https://github.com/user-attachments/assets/53381fd6-d8ee-4610-a61d-a81f00009a56" />
+
+
