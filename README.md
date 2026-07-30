@@ -26,4 +26,6 @@ lien : https://www.youtube.com/watch?v=yNnUVHfX5yQ&list=PLMrJAkhIeNNT14qn1c5qdL2
 
 <img width="1270" height="3074" alt="#4" src="https://github.com/user-attachments/assets/53381fd6-d8ee-4610-a61d-a81f00009a56" />
 
+<img width="1536" height="1572" alt="#7" src="https://github.com/user-attachments/assets/9fc80179-74f6-43ac-b58a-e5d947bf7865" />
+<img width="754" height="3076" alt="#5-6" src="https://github.com/user-attachments/assets/863364ec-0281-49e6-b94e-5a8a414e2cb3" />
 
